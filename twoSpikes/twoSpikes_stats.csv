@@ -1,0 +1,6 @@
+type,max change,mean change,autocorrelation,AUC
+static,0.9112,0.0181,0.9649,35.4863
+decayed,1.0,0.0392,0.5702,2.774
+rolling,0.995,0.0394,0.8996,15.1878
+kalman,1.0,0.0396,0.1459,1.3213
+EWMA,0.9999,0.039,0.7085,4.3625
